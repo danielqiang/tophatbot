@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local files
+test*
+tree.py
+*.json
+*.cfg
+.idea/
